@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cleaned AG News data written by 02_classical_nlp.ipynb (regenerated locally)
+train_clean.csv
+test_clean.csv
